@@ -17,9 +17,9 @@ programa
     	inteiro opcao 
     	
      escreva("Escolha uma opção:\n")
-	escreva("1. Ver saldo\n")
-	escreva("2. Ver extrato\n")
-	escreva("3. Fazer saque\n")
+     escreva("1. Ver saldo\n")
+     escreva("2. Ver extrato\n")
+     escreva("3. Fazer saque\n")
      escreva("4. Fazer depósito\n")
      escreva("5. Fazer transferencia\n")
 	escreva("6. Sair\n")
